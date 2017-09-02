@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Djaneiro",
+		"Django",
+		"Emmet",
+		"MarkdownEditing",
+		"Material Monokai",
+		"Material Theme",
+		"Materialize",
+		"Monokai - Spacegray",
+		"More Python Completions",
+		"More-Python-Completions",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeLinter",
+		"Theme - Seti Monokai",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/More-Python-Completions"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"Seti_accent_red": true,
+	"Seti_red_scrollbar": true,
+	"Seti_tabs_small": true,
+	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
