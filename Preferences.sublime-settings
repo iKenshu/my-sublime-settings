@@ -2,7 +2,6 @@
 	"Seti_accent_red": true,
 	"Seti_red_scrollbar": true,
 	"Seti_tabs_small": true,
-	"overlay_scroll_bars": "enabled",
 	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
 	"font_face": "DejaVu Sans Mono",
 	"font_size": 10,
@@ -10,14 +9,13 @@
 	[
 		"Vintage"
 	],
-	"theme": "Seti.sublime-theme",
-	"translate_tabs_to_spaces": true,
-
-	//Brackethighlighter
 	"match_brackets": false,
-    "match_brackets_angle": false,
-    "match_brackets_braces": false,
-    "match_brackets_content": false,
-    "match_brackets_square": false,
-    "match_tags": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
