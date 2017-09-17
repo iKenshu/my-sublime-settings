@@ -6,7 +6,6 @@
 	"font_face": "DejaVu Sans Mono",
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
 	"match_brackets": false,
