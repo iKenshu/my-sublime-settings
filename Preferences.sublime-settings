@@ -4,7 +4,6 @@
 	"Seti_tabs_small": true,
 	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
 	"font_face": "DejaVu Sans Mono",
-	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
