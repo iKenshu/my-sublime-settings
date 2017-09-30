@@ -5,11 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"All Autocomplete",
+		"Babel",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"CSS3",
 		"Djaneiro",
 		"Django",
+		"Dracula Color Scheme",
 		"Emmet",
 		"MarkdownEditing",
 		"Material Monokai",
@@ -22,7 +27,10 @@
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Theme - Glacier",
+		"Theme - itg.flat",
 		"Theme - Seti Monokai",
 		"Themr"
 	],

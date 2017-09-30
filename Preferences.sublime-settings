@@ -1,11 +1,11 @@
 {
-	"Seti_accent_red": true,
-	"Seti_red_scrollbar": true,
 	"Seti_tabs_small": true,
-	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_face": "DejaVu Sans Mono",
+	"font_size": 10,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"match_brackets": false,
@@ -15,6 +15,6 @@
 	"match_brackets_square": false,
 	"match_tags": false,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Seti.sublime-theme",
+	"theme": "Material Monokai.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
