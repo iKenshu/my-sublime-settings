@@ -4,7 +4,6 @@
 	"font_face": "DejaVu Sans Mono",
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"match_brackets": false,
