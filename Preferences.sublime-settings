@@ -1,6 +1,10 @@
 {
 	"color_scheme": "Packages/User/Monokai Seti.tmTheme",
-	"font_face": "DejaVu Sans Mono",
+	"font_face": "Fira Code",
+	"font_options": 
+	[
+		"gray_antialias"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
