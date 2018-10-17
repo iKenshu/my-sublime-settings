@@ -1,18 +1,5 @@
 {
-	"added_words":
-	[
-		"recursivamente",
-		"comandos",
-		"Desinstala",
-		"Python",
-		"tabulación",
-		"subdependencias",
-		"Pipenv",
-		"Pipfiles",
-		"Pipfile",
-		"setear"
-	],
-	"color_scheme": "Packages/User/Monokai Seti.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -20,7 +7,6 @@
 	],
 	"ignored_packages":
 	[
-		"Djaneiro",
 		"Vintage"
 	],
 	"match_brackets": false,
@@ -30,6 +16,6 @@
 	"match_brackets_square": false,
 	"match_tags": false,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Seti.sublime-theme",
+	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
